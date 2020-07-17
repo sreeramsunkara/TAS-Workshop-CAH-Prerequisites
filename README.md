@@ -2,10 +2,10 @@
 
 # VMware Tanzu Application Service Workshop
 
-- We need you to carry out a few steps in preparation for the July 22nd Workshop
+- We need you to carry out a few workshop prerequisite steps in preparation for the July 22nd Tanzu Application Service Workshop
 
 #
-### Technical Pre-Requisites
+### Sign-up using the Progress Worksheet
 
 - You should be able to access this [Workshop Google Sheet](https://docs.google.com/spreadsheets/d/1pV7kOcfzq_bHbXP0pa79NtPMpY3zVHSAZ8HpHaHyrKI/edit?usp=sharing) 
     
@@ -41,7 +41,7 @@ ssh -i ~/Downloads/fuse.pem ubuntu@user1.pks4u.com
 ```
 - Please `exit` from the Ubuntu VM if your test was successful. You are ready for the workshop.
 
-
+#
 ### If using Google Chrome or Firefox as your Browser
 
 - Throughout this workshop you will be frequently asked to cut & paste commands from this github page to your terminal window.
