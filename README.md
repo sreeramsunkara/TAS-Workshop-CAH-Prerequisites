@@ -1,11 +1,11 @@
 ![](./images/vmware-logo.png)
 
 # VMware Tanzu Application Service Workshop
--------------------------------------------
 
 - We need you to carry out a few steps in preparation for the July 22nd Workshop
 
-## Technical Pre-Requisites
+#
+### Technical Pre-Requisites
 
 - You should be able to access this [Workshop Google Sheet](https://docs.google.com/spreadsheets/d/1pV7kOcfzq_bHbXP0pa79NtPMpY3zVHSAZ8HpHaHyrKI/edit?usp=sharing) 
     
@@ -13,6 +13,7 @@
   - Please add your name to the Google Sheet to claim your UserID.
   - Workshop sizing is a function of the # of attendees.
 
+#
 ### If using a Windows PC
 - You will need to use [PuTTY](https://github.com/rm511130/Tanzu-PKS-Workshop/blob/master/PuTTY_and_SSH.md) to access a Ubuntu VM (public IP address) using a `.ppk` private-key file.
 - To download [`fuse.ppk`](https://raw.githubusercontent.com/rm511130/Tanzu-PKS-Workshop/master/fuse.ppk) you can install and use [wget](http://downloads.sourceforge.net/gnuwin32/wget-1.11.4-1-setup.exe) in a PowerShell window.
@@ -25,6 +26,7 @@ wget https://raw.githubusercontent.com/rm511130/Tanzu-PKS-Workshop/master/fuse.p
 - If you need help installing or using PuTTY with [fuse.ppk](https://raw.githubusercontent.com/rm511130/Tanzu-PKS-Workshop/master/fuse.ppk) check these [detailed instructions](https://github.com/rm511130/Tanzu-PKS-Workshop/blob/master/PuTTY_and_SSH.md).
 - If you successfully tested the access to the `ubuntu@user1.pks4u.com` VM, you are ready for the workshop.
 
+#
 ### If using a  Mac 
 - You will need to SSH into a Ubuntu VM (public IP address) using a private-key `.pem` file
 - Using a Terminal Window, execute the following commands to download `fuse.pem` and set the downloaded file to read-only mode:
