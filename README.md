@@ -2,7 +2,7 @@
 
 # VMware Tanzu Application Service Workshop
 
-- We need you to carry out a few workshop prerequisite steps in preparation for the July 22nd Tanzu Application Service Workshop
+We need you to carry out a few workshop prerequisite steps in preparation for the July 22nd Tanzu Application Service Workshop
 
 #
 ### 1. Sign-up using the Progress Worksheet
