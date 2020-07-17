@@ -7,13 +7,11 @@
 
 ## Technical Pre-Requisites
 
-- You should be able to access:
-
-    - [Workshop Google Sheet](https://docs.google.com/spreadsheets/d/1pV7kOcfzq_bHbXP0pa79NtPMpY3zVHSAZ8HpHaHyrKI/edit?usp=sharing) 
+- You should be able to access this [Workshop Google Sheet](https://docs.google.com/spreadsheets/d/1pV7kOcfzq_bHbXP0pa79NtPMpY3zVHSAZ8HpHaHyrKI/edit?usp=sharing) 
     
-      **Action Item**: 
-      - Please add your name to the Google Sheet to claim your UserID. 
-      - Workshop sizing is a function of the # of attendees.
+  **Action Item**:
+  - Please add your name to the Google Sheet to claim your UserID.
+  - Workshop sizing is a function of the # of attendees.
 
 ### If using a Windows PC
 - You will need to use [PuTTY](https://github.com/rm511130/Tanzu-PKS-Workshop/blob/master/PuTTY_and_SSH.md) to access a Ubuntu VM (public IP address) using a `.ppk` private-key file.
