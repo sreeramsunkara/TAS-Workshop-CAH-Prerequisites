@@ -8,7 +8,7 @@
 #
 ### 1. Sign-up using the Progress Worksheet
 
-- You should be able to access this [Workshop Google Sheet](https://docs.google.com/spreadsheets/d/1pV7kOcfzq_bHbXP0pa79NtPMpY3zVHSAZ8HpHaHyrKI/edit?usp=sharing) 
+- You should be able to access this [Workshop Google Sheet](https://docs.google.com/spreadsheets/d/1IRY5QVNfI5fkrqmpbwCagM5kffEysAnsXoYI68mdlKo/edit?usp=sharing) 
     
   **Action Item**:
   - Please add your name to the Google Sheet to claim your UserID.
