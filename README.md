@@ -1,7 +1,7 @@
 ![](./images/vmware-logo.png)
 
 # VMware Tanzu Application Service Workshop 
-### (8:30AM to 12:30PM on 07-22-2020)
+### (9:00AM to 12:00PM on 01-28-2021)
 
 - We need you to carry out a few prerequisite steps in preparation for the July 22nd Tanzu Application Service Workshop
 
