@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/sreeramsunkara/TAS-Workshop-Prerequisites
 ```
 - If you rather not install [wget](http://gnuwin32.sourceforge.net/packages/wget.htm), you can simply click on [`cah.ppk`](https://raw.githubusercontent.com/sreeramsunkara/TAS-Workshop-Prerequisites/master/cah.ppk) then cut-&-paste its contents to a local file in your Windows machine. The file must be named `cah.ppk` and set to read-only mode.
 - If you need help installing or using PuTTY with [cah.ppk](https://raw.githubusercontent.com/sreeramsunkara/TAS-Workshop-Prerequisites/master/cah.ppk) check these [detailed instructions](https://github.com/sreeramsunkara/TAS-Workshop-Prerequisites/blob/master/PuTTY_and_SSH.md).
-- If you successfully tested the access to the `ubuntu@user1.pks4u.com` VM, you are ready for the workshop.
+- If you successfully tested the access to the `ubuntu@user1.tanzu4u.net` VM, you are ready for the workshop.
 
 #
 ### 2b. If using a  Mac 
@@ -38,7 +38,7 @@ chmod 400 ~/Downloads/cah.pem
 ```
 - You can now test whether SSH is working with the `cah.pem` private key using the following command:
 ```
-ssh -i ~/Downloads/cah.pem ubuntu@user1.pks4u.com
+ssh -i ~/Downloads/cah.pem ubuntu@user1.tanzu4u.net
 ```
 - Please `exit` from the Ubuntu VM if your test was successful. You are ready for the workshop.
 
