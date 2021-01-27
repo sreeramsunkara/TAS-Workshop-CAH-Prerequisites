@@ -11,7 +11,7 @@
 - You should be able to access this [Workshop Google Sheet](https://docs.google.com/spreadsheets/d/1IRY5QVNfI5fkrqmpbwCagM5kffEysAnsXoYI68mdlKo/edit?usp=sharing) 
     
   **Action Item**:
-  - Please add your name to the Google Sheet to claim your UserID.
+  - Please add your name to the Google Sheet to claim your UserID if it is not already added.
   - Workshop sizing is a function of the # of attendees.
 
 #
