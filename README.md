@@ -52,6 +52,5 @@ ssh -i ~/Downloads/cah.pem ubuntu@user1.tanzu4u.net
 
 #
 
-## [Link to Workshop](https://github.com/sreeramsunkara/TAS-Workshop#vmware-tanzu-application-service-workshop)
 
 
