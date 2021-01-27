@@ -16,15 +16,15 @@
 
 #
 ### 2a. If using a Windows PC
-- You will need to use [PuTTY](https://github.com/sreeramsunkara/TAS-Workshop-Prerequisites/blob/master/PuTTY_and_SSH.md) to access a Ubuntu VM (public IP address) using a `.ppk` private-key file.
-- To download [`cah.ppk`](https://github.com/sreeramsunkara/TAS-Workshop-Prerequisites/blob/master/cah.ppk) you can install and use [wget](http://downloads.sourceforge.net/gnuwin32/wget-1.11.4-1-setup.exe) in a PowerShell window.
+- You will need to use [PuTTY](https://github.com/sreeramsunkara/TAS-Workshop-CAH-Prerequisites/blob/master/PuTTY_and_SSH.md) to access a Ubuntu VM (public IP address) using a `.ppk` private-key file.
+- To download [`cah.ppk`](https://github.com/sreeramsunkara/TAS-Workshop-CAH-Prerequisites/blob/master/cah.ppk) you can install and use [wget](http://downloads.sourceforge.net/gnuwin32/wget-1.11.4-1-setup.exe) in a PowerShell window.
 ```
 help wget
 cd ~\Downloads
-wget https://raw.githubusercontent.com/sreeramsunkara/TAS-Workshop-Prerequisites/master/cah.ppk -Outfile cah.ppk
+wget https://raw.githubusercontent.com/sreeramsunkara/TAS-Workshop-CAH-Prerequisites/master/cah.ppk -Outfile cah.ppk
 ```
-- If you rather not install [wget](http://gnuwin32.sourceforge.net/packages/wget.htm), you can simply click on [`cah.ppk`](https://raw.githubusercontent.com/sreeramsunkara/TAS-Workshop-Prerequisites/master/cah.ppk) then cut-&-paste its contents to a local file in your Windows machine. The file must be named `cah.ppk` and set to read-only mode.
-- If you need help installing or using PuTTY with [cah.ppk](https://raw.githubusercontent.com/sreeramsunkara/TAS-Workshop-Prerequisites/master/cah.ppk) check these [detailed instructions](https://github.com/sreeramsunkara/TAS-Workshop-Prerequisites/blob/master/PuTTY_and_SSH.md).
+- If you rather not install [wget](http://gnuwin32.sourceforge.net/packages/wget.htm), you can simply click on [`cah.ppk`](https://raw.githubusercontent.com/sreeramsunkara/TAS-Workshop-CAH-Prerequisites/master/cah.ppk) then cut-&-paste its contents to a local file in your Windows machine. The file must be named `cah.ppk` and set to read-only mode.
+- If you need help installing or using PuTTY with [cah.ppk](https://raw.githubusercontent.com/sreeramsunkara/TAS-Workshop-CAH-Prerequisites/master/cah.ppk) check these [detailed instructions](https://github.com/sreeramsunkara/TAS-Workshop-CAH-Prerequisites/blob/master/PuTTY_and_SSH.md).
 - If you successfully tested the access to the `ubuntu@user1.tanzu4u.net` VM, you are ready for the workshop.
 
 #
@@ -33,7 +33,7 @@ wget https://raw.githubusercontent.com/sreeramsunkara/TAS-Workshop-Prerequisites
 - Using a Terminal Window, execute the following commands to download `cah.pem` and set the downloaded file to read-only mode:
 ```
 cd ~/Downloads
-wget https://raw.githubusercontent.com/sreeramsunkara/TAS-Workshop-Prerequisites/master/cah.pem
+wget https://raw.githubusercontent.com/sreeramsunkara/TAS-Workshop-CAH-Prerequisites/master/cah.pem
 chmod 400 ~/Downloads/cah.pem
 ```
 - You can now test whether SSH is working with the `cah.pem` private key using the following command:
